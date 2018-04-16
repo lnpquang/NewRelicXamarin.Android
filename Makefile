@@ -16,7 +16,7 @@ newrelic.android.jar: NewRelic_Android_Agent_$(VERSION).zip
 
 NewRelic.dll: newrelic.android.jar
 	$(MONOXBUILD) /p:Configuration=Release NewRelicXamarin.Android.csproj
-	cp bin/Release/NewRelicXamarin.Android.dll NewRelicXamarin.Android.dll
+	cp bin/Release/NewRelicXamarin.Android.dll NewRelicXamarin.Android.$(VERSION).dll
 
 clean:
 	rm -rf bin obj Jars/*.jar *.dll

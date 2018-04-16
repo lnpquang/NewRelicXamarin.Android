@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{6AD654F3-DD6C-43FF-BC40-53CFF55993E8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="obj/Release/generated/src/Com.Newrelic.Agent.Android.Payload.PayloadSender.cs">
+    <Files>
+      <File FileName="obj/Release/generated/src/Com.Newrelic.Agent.Android.Payload.PayloadSender.cs" Line="418" Column="43" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.NewRelicXamarin.Android PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
+</Properties>
